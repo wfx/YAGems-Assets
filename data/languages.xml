@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+	<!--  English  -->
+	<language name="en_UK" >
+        <!--  Main  -->
+		<string key="Main_Loading" value="Please wait ..." />
+        <!--  Menu  -->
+        <string key="Main_Loading" value="Load menu ..." />
+        <string key="Menu_StartGame" value="Start Game" />
+        <string key="Menu_HowTo" value="How to play" />
+        <string key="Menu_Credits" value="Credits" />
+        <string key="Menu_Quit" value="Quit" />
+		<!--  Game  -->
+		<string key="Game_Loading" value="Loading&lt;br /&gt;&lt;br /&gt;ESTHETIQUE Gems..." />
+        <!-- ScoreTable -->
+        <string key="ScoreTable_EnterName" value="Highscore! Please enter your name" />
+        <string key="ScoreTable__Title" value="Highscore" />
+		<!--  Howto  -->
+        <string key="Howto_Loading" value="Loading Howto ..." />
+        <string key="Howto_Title" value="How to play" />
+		<string key="Howto_Text" value="The objective of the game is to swap one gem with an adjacent gem to form a horizontal or vertical chain of three or more gems.&lt;br /&gt;&lt;br /&gt;Click the first gem and then click the gem you want to swap it with. If the movement is correct, they will swap and the chained gems will disappear.&lt;br /&gt;&lt;br /&gt;Bonus points are given when more than three identical gems are formed. Sometimes chain reactions, called cascades, are triggered, where chains are formed by the falling gems. Cascades are awarded with bonus points." />
+		<!-- Credits -->
+        <string key="Credits_Loading" value="Loading Credits ..." />
+        <string key="Credits_Title" value="Credits" />
+        <string key="Credits_text" value="Esthetique Gems [1]&lt;br /&gt;&lt;br /&gt;is a clone of Freegemas [2] what is a remake of Freegemas-xdg [3] which is a clone of Bejewels&lt;br /&gt;&lt;br /&gt;[1] https://github.com/wfx/Esthetique-Gems&lt;br /&gt;&lt;br /&gt;[1] https&lt;br /&gt;&lt;br /&gt;[2] https://github.com/aliexx/freegemas&lt;br /&gt;&lt;br /&gt;[3] https://github.com/saltares/freegemas-gdx&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Music by Eric Matyas&lt;br /&gt;&lt;br /&gt;www.soundimage.org "/>
+	</language>
+    <!--  German  -->
+    <language name="de_DE" >
+        <!--  Main  -->
+        <string key="Main_Loading" value="Bitte warten ..." />
+        <!--  Menu  -->
+        <string key="Menu_Loading" value="Lade Menü ..." />
+        <string key="Menu_StartGame" value="Starte Spiel" />
+        <string key="Menu_HowTo" value="Anleitung" />
+        <string key="Menu_Credits" value="Anerkennung" />
+        <string key="Menu_Quit" value="Beenden" />
+        <!--  Game  -->
+        <string key="Game_Loading" value="Lade&lt;br /&gt;&lt;br /&gt;ESTHETIQUE Gems..." />
+        <!-- ScoreTable -->
+        <string key="ScoreTable_EnterName" value="Highscore! Bitte geben Sie Ihren Namen ein" />
+        <string key="ScoreTable__Title" value="Höchstpunkte" />
+        <!--  Howto  -->
+        <string key="Howto_Loading" value="Lade Anleitung ..." />
+        <string key="Howto_Title" value="Anleitung" />
+        <string key="Howto_Text" value="Das Ziel des Spiels ist es, ein Juwel mit einem benachbarten Juwel zu tauschen, um eine horizontale oder vertikale Kette von drei oder mehr Juwelen zu bilden.&lt;br /&gt;&lt;br /&gt;Klicke das erste Juwel an und dann das Juwel, mit dem Du das erste Juwel tauschen möchtest. Wenn der Zug erlaubt ist, werden die beiden Juwelen getauscht und die aneinander gereihten Juwelen verschwinden.&lt;br /&gt;&lt;br /&gt;Wenn mehr als drei gleiche Juwelen aneinander gereiht werden, gibt es Bonus Punkte. Manchmal entstehen Kettenreaktionen - so genannte Kaskaden, wenn fallende Juwelen wieder Ketten bilden. Kaskaden werden mit Bonus Punkten belohnt." />
+        <!-- Credits -->
+        <string key="Credits_Loading" value="Lade Anerkennung ..." />
+        <string key="Credits_Title" value="Anerkennung" />
+        <string key="Credits_text" value="Esthetique Gems [1]&lt;br /&gt;&lt;br /&gt;ist eine Klone von Freegemas [2] das eine Neufassung von Freegemas-xdg [3] ist das wiederum ein Klon von Bejewels ist.&lt;br /&gt;&lt;br /&gt;[1] https://github.com/wfx/Esthetique-Gems&lt;br /&gt;&lt;br /&gt;[1] https&lt;br /&gt;&lt;br /&gt;[2] https://github.com/aliexx/freegemas&lt;br /&gt;&lt;br /&gt;[3] https://github.com/saltares/freegemas-gdx&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Musik von Eric Matyas&lt;br /&gt;&lt;br /&gt;www.soundimage.org "/>
+    </language>
+	<!-- Spanish -->
+    <!-- Need some help... -->
+</languages>
