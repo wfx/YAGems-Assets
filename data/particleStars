@@ -145,4 +145,4 @@ aligned: false
 additive: true
 behind: false
 - Image Path -
-data/partc1.png
+img/partc1.png
