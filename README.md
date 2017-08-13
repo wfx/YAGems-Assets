@@ -4,7 +4,7 @@ This are the asset for [Esthetique-Gems](https://github.com/wfx/Esthetique-Gems)
 
 Font by Lauren Ruth www.nymfont.com<br>
 Music by Eric Matyas www.soundimage.org<br>
-Italian translation by [DaveMDS] (https://github.com/DaveMDS)<br>
+Italian translation by [DaveMDS](https://github.com/DaveMDS)<br>
 
 Code and new artwork by Wolfgang Morawetz<br>
 License GPLv2<br>
