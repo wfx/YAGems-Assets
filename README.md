@@ -1,13 +1,14 @@
 # Esthetique-Gems-Assets
 
-Assets for: [Esthetique-Gems](https://github.com/wfx/Esthetique-Gems)<br>
+This are the asset for [Esthetique-Gems](https://github.com/wfx/Esthetique-Gems) (a match 3 game)<br>
 
-Font<br>
-by Lauren Ruth www.nymfont.com<br>
+Font by Lauren Ruth www.nymfont.com<br>
+Music by Eric Matyas www.soundimage.org<br>
+Italian translation by [DaveMDS](https://github.com/DaveMDS)<br>
 
-Music<br>
-by Eric Matyas www.soundimage.org
-
-Artwork:
-partc1.png, partc2.png and handCurser.png from [freegemas](https://github.com/aliexx/freegemas)<br>
-Rest by Wolfgang Morawetz
+Code and new artwork by Wolfgang Morawetz<br>
+License GPLv2<br>
+<br>
+<br>
+Have a lot of fun.<br>
+wfx
