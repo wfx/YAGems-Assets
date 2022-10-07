@@ -1,6 +1,6 @@
-# Esthetique-Gems-Assets
+# YA-Gems-Assets
 
-This are the asset for [Esthetique-Gems](https://github.com/wfx/Esthetique-Gems) (a match 3 game)<br>
+This are the asset for [YA-Gems](https://github.com/wfx/YA-Gems) (a match 3 game)<br>
 
 Font by Lauren Ruth www.nymfont.com<br>
 Music by Eric Matyas www.soundimage.org<br>
