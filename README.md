@@ -1,4 +1,4 @@
-# YA-Gems-Assets
+# Yet Another Gems - Assets
 
 This are the asset for [YA-Gems](https://github.com/wfx/YA-Gems) (a match 3 game)<br>
 
